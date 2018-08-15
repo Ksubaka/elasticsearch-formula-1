@@ -1,4 +1,4 @@
-elasticsearch:
+elasticsearch-5.6.8:
   version: 2.4.2-1
   use_repo: True
   config:
